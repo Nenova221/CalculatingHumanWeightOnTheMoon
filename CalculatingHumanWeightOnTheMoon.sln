@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatingHumanWeightOnTheMoon", "CalculatingHumanWeightOnTheMoon\CalculatingHumanWeightOnTheMoon.csproj", "{E37ED79F-656B-4C46-9012-D2C8EA73EB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatingHumanWeightOnTheMoonTest", "CalculatingHumanWeightOnTheMoonTest\CalculatingHumanWeightOnTheMoonTest.csproj", "{40E015F4-3EC8-4DA4-9160-371764E14A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37ED79F-656B-4C46-9012-D2C8EA73EB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37ED79F-656B-4C46-9012-D2C8EA73EB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37ED79F-656B-4C46-9012-D2C8EA73EB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37ED79F-656B-4C46-9012-D2C8EA73EB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E015F4-3EC8-4DA4-9160-371764E14A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E015F4-3EC8-4DA4-9160-371764E14A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E015F4-3EC8-4DA4-9160-371764E14A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E015F4-3EC8-4DA4-9160-371764E14A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD42AA7D-3F5F-4CC5-98FE-32740ACB470E}
+	EndGlobalSection
+EndGlobal
